@@ -1,0 +1,7 @@
+asgiref==3.6.0
+Django==4.1.4
+djangorestframework==3.14.0
+greenlet==2.0.1
+pytz==2022.7
+SQLAlchemy==1.4.45
+sqlparse==0.4.3
